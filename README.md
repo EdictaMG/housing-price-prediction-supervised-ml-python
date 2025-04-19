@@ -4,7 +4,7 @@ In this regression project, I built a supervised machine learning model to predi
 
 ## Situation
 
-Similar to my other project documented in the repository `housing-value-classification-supervised-ml-python`, this project uses a dataset of historical home prices in Ames, Iowa. The goal here is to build a regression model that predicts the actual sale price of a home based on characteristics such as garage size, year built, building type, and more.
+Similar to my other project documented in the repository [**housing-value-classification-supervised-ml-python**](https://github.com/edictamg/housing-value-classification-supervised-ml-python), this project uses a dataset of historical home prices in Ames, Iowa. The goal here is to build a regression model that predicts the actual sale price of a home based on characteristics such as garage size, year built, building type, and more.
 
 This project was part of a regression competition on Kaggle, where models were evaluated against actual housing prices using the Root Mean Squared Error (RMSE) metric. The final model I submitted achieved an RMSE of **28,454.19** and a Kaggle score of **0.13481**.
 
